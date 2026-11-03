@@ -1,0 +1,11 @@
+{
+    "name": "node-lab-website",
+    "version": "1.0.0",
+    "description": "Laboratory Work N1 - one page website with Node.js and Express.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
